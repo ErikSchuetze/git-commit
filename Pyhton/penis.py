@@ -1,1 +1,2 @@
-print("Penis")
+while True: 
+    print("SEXO")
